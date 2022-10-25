@@ -1,0 +1,27 @@
+/*001*/
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+/*001*/
+th {
+    background-color: #424242;
+    color: #E3E3E3;
+}
+
+/*001*/
+td {
+    background-color: #BABABA;
+    color: #292929;
+}
+
+/*001*/
+th,
+/*001*/
+td {
+    border: 0.063em;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+}

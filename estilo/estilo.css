@@ -1,0 +1,61 @@
+/*001*/
+body {
+    font: 0.938em;
+    font-family: "Lucida Console", "Courier New", monospace;
+    line-height: 2em;
+    background-color: black;
+    color: white;
+}
+
+/*003*/
+aside ul li {
+    list-style: square;
+    padding: 0.5em;
+}
+
+/*002*/
+aside h3 {
+    text-align: center;
+}
+
+/*001*/
+footer {
+    text-align: center;
+}
+
+/*001*/
+a {
+    background-color: #252525;
+    padding: 0.2em;
+    color: #DECD9E;
+    text-decoration: none;
+}
+
+/*001*/
+p {
+    font-size: 1.1em;
+}
+
+/*001*/
+h1 {
+    text-transform: uppercase;
+    padding: 0.313em;
+    text-align: center;
+}
+
+/*001*/
+h2 {
+    padding: 0.625em;
+    text-align: center;
+}
+
+/*001*/
+img {
+    width: 15em;
+}
+
+/*001*/
+video {
+    width: 25em;
+    float: right;
+}
